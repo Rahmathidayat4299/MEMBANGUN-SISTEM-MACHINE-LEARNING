@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/992ca76f5adb400e925616152882b607/artifacts
+end_time: 1747896713687
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: 992ca76f5adb400e925616152882b607
+run_name: silent-squid-641
+run_uuid: 992ca76f5adb400e925616152882b607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747896650922
+status: 3
+tags: []
+user_id: hrahm

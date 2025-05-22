@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/9e61cb41bdbf480a9ed0ef184e7bb964/artifacts
+end_time: 1747897965523
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: 9e61cb41bdbf480a9ed0ef184e7bb964
+run_name: masked-hog-606
+run_uuid: 9e61cb41bdbf480a9ed0ef184e7bb964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747897927772
+status: 3
+tags: []
+user_id: hrahm

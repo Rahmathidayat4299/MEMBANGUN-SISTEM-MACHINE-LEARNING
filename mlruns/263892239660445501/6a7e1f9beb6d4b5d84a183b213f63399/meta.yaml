@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/6a7e1f9beb6d4b5d84a183b213f63399/artifacts
+end_time: 1747896624068
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: 6a7e1f9beb6d4b5d84a183b213f63399
+run_name: lyrical-donkey-125
+run_uuid: 6a7e1f9beb6d4b5d84a183b213f63399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747896623190
+status: 3
+tags: []
+user_id: hrahm

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/dffa899f98304571af9ecb8f1ef62caf/artifacts
+end_time: 1747897915246
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: dffa899f98304571af9ecb8f1ef62caf
+run_name: smiling-lynx-641
+run_uuid: dffa899f98304571af9ecb8f1ef62caf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747897914668
+status: 3
+tags: []
+user_id: hrahm

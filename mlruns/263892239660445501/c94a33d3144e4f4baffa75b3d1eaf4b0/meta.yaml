@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/c94a33d3144e4f4baffa75b3d1eaf4b0/artifacts
+end_time: 1747896650871
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: c94a33d3144e4f4baffa75b3d1eaf4b0
+run_name: overjoyed-seal-184
+run_uuid: c94a33d3144e4f4baffa75b3d1eaf4b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747896626095
+status: 3
+tags: []
+user_id: hrahm

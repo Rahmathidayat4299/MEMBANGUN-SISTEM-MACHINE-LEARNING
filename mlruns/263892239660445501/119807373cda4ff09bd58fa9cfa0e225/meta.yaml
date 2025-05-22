@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/119807373cda4ff09bd58fa9cfa0e225/artifacts
+end_time: 1747897965523
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: 119807373cda4ff09bd58fa9cfa0e225
+run_name: efficient-kite-809
+run_uuid: 119807373cda4ff09bd58fa9cfa0e225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747897927772
+status: 3
+tags: []
+user_id: hrahm

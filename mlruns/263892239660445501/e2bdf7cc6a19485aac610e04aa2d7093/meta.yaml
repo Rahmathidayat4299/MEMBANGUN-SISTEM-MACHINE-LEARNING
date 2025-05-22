@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/e2bdf7cc6a19485aac610e04aa2d7093/artifacts
+end_time: 1747896713687
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: e2bdf7cc6a19485aac610e04aa2d7093
+run_name: beautiful-bug-234
+run_uuid: e2bdf7cc6a19485aac610e04aa2d7093
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747896650922
+status: 3
+tags: []
+user_id: hrahm

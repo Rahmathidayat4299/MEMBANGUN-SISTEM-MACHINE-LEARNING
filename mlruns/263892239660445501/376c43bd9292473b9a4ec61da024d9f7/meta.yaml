@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/376c43bd9292473b9a4ec61da024d9f7/artifacts
+end_time: 1747897965810
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: 376c43bd9292473b9a4ec61da024d9f7
+run_name: merciful-shark-779
+run_uuid: 376c43bd9292473b9a4ec61da024d9f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747897927772
+status: 3
+tags: []
+user_id: hrahm

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/f2fcb0cef38349a7a88571c029fac153/artifacts
+end_time: 1747896713687
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: f2fcb0cef38349a7a88571c029fac153
+run_name: aged-pug-18
+run_uuid: f2fcb0cef38349a7a88571c029fac153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747896650922
+status: 3
+tags: []
+user_id: hrahm

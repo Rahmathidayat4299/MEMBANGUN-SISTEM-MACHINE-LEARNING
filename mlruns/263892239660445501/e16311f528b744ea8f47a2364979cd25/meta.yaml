@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/e16311f528b744ea8f47a2364979cd25/artifacts
+end_time: 1747897965523
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: e16311f528b744ea8f47a2364979cd25
+run_name: righteous-crow-203
+run_uuid: e16311f528b744ea8f47a2364979cd25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747897927772
+status: 3
+tags: []
+user_id: hrahm

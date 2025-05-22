@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/6f799e4c02fa434eb22fcd9318613690/artifacts
+end_time: 1747896714195
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: 6f799e4c02fa434eb22fcd9318613690
+run_name: efficient-carp-89
+run_uuid: 6f799e4c02fa434eb22fcd9318613690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747896650922
+status: 3
+tags: []
+user_id: hrahm
