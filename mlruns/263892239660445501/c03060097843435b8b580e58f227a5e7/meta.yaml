@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/c03060097843435b8b580e58f227a5e7/artifacts
+end_time: 1748323510018
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: c03060097843435b8b580e58f227a5e7
+run_name: amazing-yak-629
+run_uuid: c03060097843435b8b580e58f227a5e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748323493329
+status: 3
+tags: []
+user_id: hrahm

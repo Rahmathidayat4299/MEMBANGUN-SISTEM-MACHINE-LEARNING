@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/5b356151f3a94ae2a07f23f8264d0f32/artifacts
+end_time: 1748324775174
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: 5b356151f3a94ae2a07f23f8264d0f32
+run_name: fun-shoat-478
+run_uuid: 5b356151f3a94ae2a07f23f8264d0f32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748324743764
+status: 3
+tags: []
+user_id: hrahm

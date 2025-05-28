@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/1d19c9af12704e5786b8b0307d38a05c/artifacts
+end_time: 1748319033458
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: 1d19c9af12704e5786b8b0307d38a05c
+run_name: grandiose-kit-476
+run_uuid: 1d19c9af12704e5786b8b0307d38a05c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748318998118
+status: 3
+tags: []
+user_id: hrahm

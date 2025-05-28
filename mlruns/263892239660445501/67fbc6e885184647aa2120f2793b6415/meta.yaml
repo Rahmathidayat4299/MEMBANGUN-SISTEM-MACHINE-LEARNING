@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/67fbc6e885184647aa2120f2793b6415/artifacts
+end_time: 1748323352794
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: 67fbc6e885184647aa2120f2793b6415
+run_name: merciful-ram-941
+run_uuid: 67fbc6e885184647aa2120f2793b6415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748323336485
+status: 3
+tags: []
+user_id: hrahm

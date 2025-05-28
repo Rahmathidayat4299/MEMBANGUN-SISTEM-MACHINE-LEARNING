@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/736c43a29e25497c99fedd0b7c499068/artifacts
+end_time: 1748319033458
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: 736c43a29e25497c99fedd0b7c499068
+run_name: clean-gnu-411
+run_uuid: 736c43a29e25497c99fedd0b7c499068
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748318998118
+status: 3
+tags: []
+user_id: hrahm

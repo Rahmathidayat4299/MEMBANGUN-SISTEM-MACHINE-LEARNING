@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/b08f37911ca542208f2ce1c39d2cacd5/artifacts
+end_time: 1748323369509
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: b08f37911ca542208f2ce1c39d2cacd5
+run_name: sneaky-worm-54
+run_uuid: b08f37911ca542208f2ce1c39d2cacd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748323352824
+status: 3
+tags: []
+user_id: hrahm

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/5cbe0f6f5d8f4d48997af6bba1b0593e/artifacts
+end_time: 1748323315234
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: 5cbe0f6f5d8f4d48997af6bba1b0593e
+run_name: traveling-dove-173
+run_uuid: 5cbe0f6f5d8f4d48997af6bba1b0593e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748323301246
+status: 3
+tags: []
+user_id: hrahm

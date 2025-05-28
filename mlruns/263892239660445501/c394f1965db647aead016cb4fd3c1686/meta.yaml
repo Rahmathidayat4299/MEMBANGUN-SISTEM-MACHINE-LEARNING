@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/c394f1965db647aead016cb4fd3c1686/artifacts
+end_time: 1748323492801
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: c394f1965db647aead016cb4fd3c1686
+run_name: tasteful-crane-619
+run_uuid: c394f1965db647aead016cb4fd3c1686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748323426030
+status: 3
+tags: []
+user_id: hrahm

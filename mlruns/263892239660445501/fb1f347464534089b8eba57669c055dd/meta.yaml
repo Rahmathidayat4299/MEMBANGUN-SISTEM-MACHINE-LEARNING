@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/fb1f347464534089b8eba57669c055dd/artifacts
+end_time: 1748323492801
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: fb1f347464534089b8eba57669c055dd
+run_name: wise-conch-328
+run_uuid: fb1f347464534089b8eba57669c055dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748323426030
+status: 3
+tags: []
+user_id: hrahm

@@ -1,0 +1,10 @@
+services:
+  msml-app:
+    build:
+      context: ./app
+      dockerfile: ../Dockerfile
+    ports:
+      - "8888:8888"  # Jupyter Notebook
+      - "8000:8000"  # Prometheus metrics
+    volumes:
+      - ./app:/app

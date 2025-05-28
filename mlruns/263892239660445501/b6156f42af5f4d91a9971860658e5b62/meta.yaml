@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/b6156f42af5f4d91a9971860658e5b62/artifacts
+end_time: 1748323492801
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: b6156f42af5f4d91a9971860658e5b62
+run_name: sincere-gull-418
+run_uuid: b6156f42af5f4d91a9971860658e5b62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748323426030
+status: 3
+tags: []
+user_id: hrahm

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/f98f288fc83547b691832e74e0ac6309/artifacts
+end_time: 1748323492801
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: f98f288fc83547b691832e74e0ac6309
+run_name: bemused-grouse-547
+run_uuid: f98f288fc83547b691832e74e0ac6309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748323426030
+status: 3
+tags: []
+user_id: hrahm

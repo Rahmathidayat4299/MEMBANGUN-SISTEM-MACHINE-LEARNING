@@ -1,0 +1,50 @@
+# Ignore dataset files
+*.csv
+*.xlsx
+
+# Ignore model files
+*.pkl
+*.h5
+
+# Ignore temporary files
+*.log
+__pycache__/
+*.ipynb_checkpoints/
+
+# Ignore virtual environment
+.venv/
+# Ignore specific files or folders
+path/to/problematic_file_or_folder
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+.venv/
+venv/
+*.zip
+*.tar
+*.gz
+*.whl
+*.ipynb
+.DS_Store
+Thumbs.db
+*.csv
+*.xlsx
+*.h5
+**/.git
+**/.venv
+**/venv
+**/env
+**/node_modules
+**/__pycache__
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/.DS_Store
+**/Thumbs.db
+**/OneDrive   # Khusus untuk OneDrive di Windows
+**/Desktop.ini
+mlruns/

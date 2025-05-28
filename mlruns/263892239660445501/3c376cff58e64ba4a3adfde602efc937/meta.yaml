@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/3c376cff58e64ba4a3adfde602efc937/artifacts
+end_time: 1748318998072
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: 3c376cff58e64ba4a3adfde602efc937
+run_name: thoughtful-bird-336
+run_uuid: 3c376cff58e64ba4a3adfde602efc937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748318985163
+status: 3
+tags: []
+user_id: hrahm

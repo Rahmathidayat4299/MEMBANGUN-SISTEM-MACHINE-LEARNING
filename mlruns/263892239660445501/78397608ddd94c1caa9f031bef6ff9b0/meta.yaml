@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/78397608ddd94c1caa9f031bef6ff9b0/artifacts
+end_time: 1748323408650
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: 78397608ddd94c1caa9f031bef6ff9b0
+run_name: persistent-dove-48
+run_uuid: 78397608ddd94c1caa9f031bef6ff9b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748323406879
+status: 3
+tags: []
+user_id: hrahm

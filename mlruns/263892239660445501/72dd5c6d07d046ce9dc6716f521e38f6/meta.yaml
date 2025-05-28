@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/72dd5c6d07d046ce9dc6716f521e38f6/artifacts
+end_time: 1748319033458
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: 72dd5c6d07d046ce9dc6716f521e38f6
+run_name: victorious-doe-963
+run_uuid: 72dd5c6d07d046ce9dc6716f521e38f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748318998118
+status: 3
+tags: []
+user_id: hrahm

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/af0968cf0ae7456fa72c229a95ee14a8/artifacts
+end_time: 1748319041361
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: af0968cf0ae7456fa72c229a95ee14a8
+run_name: efficient-skink-283
+run_uuid: af0968cf0ae7456fa72c229a95ee14a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748319033744
+status: 3
+tags: []
+user_id: hrahm

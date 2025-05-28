@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/a6f339875b06404fac816b29556ed866/artifacts
+end_time: 1748319033458
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: a6f339875b06404fac816b29556ed866
+run_name: rare-cod-367
+run_uuid: a6f339875b06404fac816b29556ed866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748318998118
+status: 3
+tags: []
+user_id: hrahm

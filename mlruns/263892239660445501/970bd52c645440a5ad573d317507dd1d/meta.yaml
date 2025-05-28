@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501/970bd52c645440a5ad573d317507dd1d/artifacts
+end_time: 1748319033712
+entry_point_name: ''
+experiment_id: '263892239660445501'
+lifecycle_stage: active
+run_id: 970bd52c645440a5ad573d317507dd1d
+run_name: wise-auk-554
+run_uuid: 970bd52c645440a5ad573d317507dd1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748318998118
+status: 3
+tags: []
+user_id: hrahm
